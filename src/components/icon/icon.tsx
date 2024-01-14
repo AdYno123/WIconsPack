@@ -2,6 +2,13 @@ import { Build, Component, Element, Host, Prop, State, Watch, h } from '@stencil
 import { getSvgContent, medirexiconContent } from './request';
 import { getName, getUrl, inheritAttributes, isRTL } from './utils';
 
+{
+  /* <script
+type="module"
+src="https://cdn.jsdelivr.net/npm/medirex-icon@8.0.0/dist/ionicons/ionicons.esm.js"
+></script>  */
+}
+
 @Component({
   tag: 'medirex-icon',
   assetsDirs: ['svg'],
