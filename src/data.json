@@ -2,7 +2,62 @@
   "icons": [
     {
       "name": "add",
-      "tags": ["add", "circle", "include", "invite", "plus"]
+      "tags": [
+        "add",
+        "circle",
+        "include",
+        "invite",
+        "plus"
+      ]
+    },
+    {
+      "name": "icon-check",
+      "tags": [
+        "check",
+        "icon"
+      ]
+    },
+    {
+      "name": "icon-close",
+      "tags": [
+        "close",
+        "icon"
+      ]
+    },
+    {
+      "name": "icon-correct",
+      "tags": [
+        "correct",
+        "icon"
+      ]
+    },
+    {
+      "name": "icon-dropdown",
+      "tags": [
+        "dropdown",
+        "icon"
+      ]
+    },
+    {
+      "name": "icon-search",
+      "tags": [
+        "icon",
+        "search"
+      ]
+    },
+    {
+      "name": "invalid-x",
+      "tags": [
+        "invalid",
+        "x"
+      ]
+    },
+    {
+      "name": "valid-x",
+      "tags": [
+        "valid",
+        "x"
+      ]
     }
   ]
 }
